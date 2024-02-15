@@ -1,0 +1,17 @@
+sort1 uses: TODO
+
+Bubble Sort
+
+How do you know?: TODO
+
+sort2 uses: TODO
+
+Merge Sort
+
+How do you know?: TODO
+
+sort3 uses: TODO
+
+Selection Sort
+
+How do you know?: TODO
